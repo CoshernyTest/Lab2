@@ -14,4 +14,8 @@
     <PackageReference Include="coverlet.collector" Version="3.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Babich_Lab2_Calculator\Babich_Lab2_Calculator.csproj" />
+  </ItemGroup>
+
 </Project>
