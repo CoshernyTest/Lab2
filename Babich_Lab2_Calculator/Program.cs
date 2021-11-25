@@ -117,8 +117,7 @@ public class Calculator
             }
         }
 
-        //return answer;
-        return 999;
+        return answer;
     }
 }
 #endregion
