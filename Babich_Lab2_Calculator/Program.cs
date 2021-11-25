@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-
-string path_in = "input.txt";
+﻿string path_in = "input.txt";
 string path_out = "output.txt";
 string input_line = "";
 
@@ -120,7 +117,8 @@ public class Calculator
             }
         }
 
-        return answer;
+        //return answer;
+        return 999;
     }
 }
 #endregion
